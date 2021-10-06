@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: project
 title: Categories
 permalink: /categories
 ---
