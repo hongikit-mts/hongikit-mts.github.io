@@ -1,0 +1,159 @@
+# Site
+name: "DND 기술 블로그"
+title: "DND"
+description: "개발자와 디자이너가 함께 사이드 프로젝트를 진행해요. DND는 서울에서 활발히 활동하고 있는 현직자들이 서울에 편중되어 있는 기술공유와 세미나를 더 많은 사람들에게 나누기위해 기획된 비영리단체입니다. 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요. 누구나 평등한 교육 기회를 가질 수 있습니다. tags: IT사이드프로젝트, 사이드프로젝트, dnd, d&d"
+site_description: "프로젝트에 즐거움을, 모두에게 기회를!"
+logo: "assets/images/logo/logo.png"
+favicon: "assets/images/logo/logo.png"
+og_image: "assets/images/logo/meta.png"
+google_analytics: "UA-167083100-1"
+disqus: "demowebsite"
+mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+include: ["_pages"]
+permalink: /:title/
+email: sgd0947@gmail.com
+
+# Authors
+authors:
+  Gidong:
+    name: 성기동
+    display_name: 성기동
+    gravatar: SeongGiDong.png
+    email: sgd0947@gmail.com
+    web: https://github.com/sgd122/
+  Huigu:
+    name: 권희구
+    display_name: 권희구
+    gravatar: GwonHuigu.png
+    email: project@heeguchi.me
+    web: https://dnd.ac/
+  Dayeong:
+    name: 정다영
+    display_name: 정다영
+    gravatar: JeongDayeong.png
+    email: danadayoung@gmail.com
+    web: https://dnd.ac/
+  Giyeol:
+    name: 정기열
+    display_name: 정기열
+    gravatar: JeongGiyeol.png
+    email: wjdrlduf12@gmail.com
+    web: https://dnd.ac/
+  Hansol:
+    name: 김한솔
+    display_name: 김한솔
+    gravatar: KimHansol.png
+    email: axscdv0@gmail.com
+    web: https://dnd.ac/
+  Jeongdong:
+    name: 김정동
+    display_name: 김정동
+    gravatar: KimJeongdong.png
+    email: kmtc241@gmail.com
+    web: https://dnd.ac/
+  Seongjun:
+    name: 김성준
+    display_name: 김성준
+    gravatar: KimSeongjun.png
+    email: tthh617@gmail.com
+    web: https://dnd.ac/
+  Dajeong:
+    name: 이다정
+    display_name: 이다정
+    gravatar: LeeDajeong.png
+    email: dadal2e@gmail.com
+    web: https://dnd.ac/
+  Hojun:
+    name: 이호준
+    display_name: 이호준
+    gravatar: LeeHojun.png
+    email: relativity1915@gmail.com
+    web: https://dnd.ac/
+  Yeongho:
+    name: 박영호
+    display_name: 박영호
+    gravatar: ParkYeongho.png
+    email: mellonia.bluerose@gmail.com
+    web: https://dnd.ac/
+  Hyeongon:
+    name: 손현곤
+    display_name: 손현곤
+    gravatar: SonHyeongon.png
+    email: sgn8369@gmail.com
+    web: https://dnd.ac/
+  Yeongwon:
+    name: 서영원
+    display_name: 서영원
+    gravatar: SuhYeongwon.png
+    email: jazz9008@gmail.com
+    web: https://dnd.ac/
+  Jongseong:
+    name: 우종성
+    display_name: 우종성
+    gravatar: WooJongseong.png
+    email: rura6502@hotmail.com
+    web: https://dnd.ac/
+  Yunji:
+    name: 우윤지
+    display_name: 우윤지
+    gravatar: WooYunji.png
+    email: younjiwoo@gmail.com
+    web: https://dnd.ac/
+  Seonju:
+    name: 여선주
+    display_name: 여선주
+    gravatar: YoeSeonju.png
+    email: sj6090@gmail.com
+    web: https://dnd.ac/
+  Cheolwoo:
+    name: 이철우
+    display_name: 이철우
+    gravatar: LeeCheolwoo.png
+    email: aaronlab.net@gmail.com
+    web: https://github.com/aaronLab
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+# Post Author Box ("enabled" or "disabled")
+authorbox: "disabled"
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
