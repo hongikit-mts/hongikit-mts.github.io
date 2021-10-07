@@ -3,7 +3,7 @@ layout: page
 title: 홍익과학기술 소개
 permalink: /about
 comments: false
-image: assets/images/introduece/logo.png
+image: assets/images/introduce/logo.png
 imageshadow: true
 ---
 널리 인간을 이옵게 하는 ICT, 정보통신기술을 지향하는 기업, 고객과 임직원이 함께 행복한 기업이 되고자 합니다.
@@ -14,13 +14,13 @@ imageshadow: true
 
 그리하여 바른 생각을 올바르게 적용 할 때, 우리의 과학기술(정보통신기술)이 널리 인간을 이롭게 하고, 고객과 임직원이 함께 행복할 수 있도록 한다는 지향을 믿습니다.
 
-[DND](https://dnd.ac/#/)
+[홍익과학기술](https://hongikit.com/)
 
 💖 **Special Thanks**
 
-MTS 팀장[이장훈](http://hayoonji.com/)
+MTS 팀장[이장훈](http://hongikit.com/)
 
-MTS 대리 [한성빈](https://www.instagram.com/simh57/)
+MTS 대리 [한성빈](https://hongikit.com/)
 
 
 
