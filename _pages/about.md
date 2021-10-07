@@ -3,7 +3,7 @@ layout: page
 title: 홍익과학기술 소개
 permalink: /about
 comments: false
-image: assets/images/hongikit/1.png
+image: assets/images/hongikit/1.PNG
 imageshadow: true
 ---
 널리 인간을 이옵게 하는 ICT, 정보통신기술을 지향하는 기업, 고객과 임직원이 함께 행복한 기업이 되고자 합니다.
