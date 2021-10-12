@@ -6,8 +6,6 @@ comments: false
 image: assets/images/introduce/logo.png
 imageshadow: true
 ---
-# about
-
 널리 인간을 이옵게 하는 ICT, 정보통신기술을 지향하는 기업, 고객과 임직원이 함께 행복한 기업이 되고자 합니다.
 
 목표를 달성하기 위해서, 우리는 스스로가 (주)홍익과학기술의 소중한 인재임을 인식하고, 이 사회의 당당한 주인임을 알아 차려, 나와 연관된 고객, 협력사, 동료들이
@@ -28,15 +26,15 @@ MTS 대리 [한성빈](https://hongikit.com/)
 
 ### 게임, 인터넷
 
-<img width="139" alt="game" src="https://user-images.githubusercontent.com/85655740/136919196-dcba7aa8-c01f-45d6-8f59-f42fd6efcd80.png">
+<img width="150" alt="game" src="https://user-images.githubusercontent.com/85655740/136919196-dcba7aa8-c01f-45d6-8f59-f42fd6efcd80.png">
 
 ### 금융, 공공기관
 
-<img width="134" alt="bank" src="https://user-images.githubusercontent.com/85655740/136919520-b40c038a-7577-4d78-b2a3-f50164273f8c.png">
+<img width="150" alt="bank" src="https://user-images.githubusercontent.com/85655740/136919520-b40c038a-7577-4d78-b2a3-f50164273f8c.png">
 
 ### 대학교, 기타고객
 
-<img width="133" alt="school" src="https://user-images.githubusercontent.com/85655740/136919529-b8ed1dfd-f07a-42d4-b547-f7ded9885275.png">
+<img width="150" alt="school" src="https://user-images.githubusercontent.com/85655740/136919529-b8ed1dfd-f07a-42d4-b547-f7ded9885275.png">
 
 # 사업분야
 
