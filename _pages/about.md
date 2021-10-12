@@ -32,11 +32,11 @@ MTS 대리 [한성빈](https://hongikit.com/)
 
 ### 금융, 공공기관
 
-![bank.PNG](about%20f64a0ca6435f46dab5beb8e75b6ccfd2/bank.png)
+<img width="134" alt="bank" src="https://user-images.githubusercontent.com/85655740/136919520-b40c038a-7577-4d78-b2a3-f50164273f8c.png">
 
 ### 대학교, 기타고객
 
-![school.PNG](about%20f64a0ca6435f46dab5beb8e75b6ccfd2/school.png)
+<img width="133" alt="school" src="https://user-images.githubusercontent.com/85655740/136919529-b8ed1dfd-f07a-42d4-b547-f7ded9885275.png">
 
 # 사업분야
 
