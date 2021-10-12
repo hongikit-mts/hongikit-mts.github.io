@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 홍익과학기술 소개
+title: Introduce
 permalink: /about
 comments: false
 image: assets/images/introduce/logo.png
