@@ -28,7 +28,7 @@ MTS 대리 [한성빈](https://hongikit.com/)
 
 ### 게임, 인터넷
 
-![game.PNG](about%20f64a0ca6435f46dab5beb8e75b6ccfd2/game.png)
+<img width="139" alt="game" src="https://user-images.githubusercontent.com/85655740/136919196-dcba7aa8-c01f-45d6-8f59-f42fd6efcd80.png">
 
 ### 금융, 공공기관
 
