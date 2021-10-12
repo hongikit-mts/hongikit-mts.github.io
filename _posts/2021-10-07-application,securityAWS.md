@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "AWS SA 준비(네트워킹 및 콘텐츠 전송, 컴퓨팅, 관리 도구)"
+title: "AWS SA 준비(애플리케이션 및 보안)"
 author: Sungbin
 categories: 
 tags: [AWS]
-image: assets/images/aws/Untitled.png
+image: assets/images/aws2/Untitled 1.png
 sitemap:
   changefreq: daily
   priority: 1.0
