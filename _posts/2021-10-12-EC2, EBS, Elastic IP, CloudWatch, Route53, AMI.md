@@ -4,7 +4,7 @@ title: "AWS SA 준비(EC2, EBS, Elastic IP, CloudWatch, Route53, AMI)"
 author: Sungbin
 categories: 
 tags: [AWS]
-image: assets/images/aws3/Untitled.png
+image: assets/images/aws4/Untitled.png
 sitemap:
   changefreq: daily
   priority: 1.0
