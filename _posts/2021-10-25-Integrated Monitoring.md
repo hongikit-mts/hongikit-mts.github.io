@@ -4,7 +4,7 @@ title: "통합 모니터링"
 author: Sungbin
 categories: [통합 모니터링]
 tags:
-image: assets/images/hongikit/nagios.PNG
+image: assets/images/integratedmonitering/big.png
 sitemap:
   changefreq: daily
   priority: 1.0
