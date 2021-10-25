@@ -1,3 +1,15 @@
+---
+layout: post
+title: "통합 모니터링"
+author: Sungbin
+categories: [통합 모니터링]
+tags:
+image: assets/images/hongikit/nagios.PNG
+sitemap:
+  changefreq: daily
+  priority: 1.0
+---
+
 # Integrated Monitoring
 
 프로메테우스 + 그라파나 + 티켓 시스템 도입
