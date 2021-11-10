@@ -27,6 +27,11 @@ authors:
     gravatar: SeongGiDong.png
     email: sgd0947@gmail.com
     web: https://github.com/sgd122/
+  MyeongHan:
+    name: 김명한
+    display_name: 김명한
+    gravatar: kmh.png
+    email: dbwmflgk12@naver.com
 
 # Plugins
 plugins:
